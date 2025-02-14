@@ -18,7 +18,7 @@ A .NET Core application that processes test scores from CSV files and provides b
 1. Clone the repository:
 ```bash
 git clone https://github.com/hlokomani/assessment1
-cd https://github.com/hlokomani/assessment1
+cd assessment1
 ```
 
 2. Run the API:
