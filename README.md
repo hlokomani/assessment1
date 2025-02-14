@@ -117,3 +117,14 @@ Jane,Smith,92
    - Add authentication and authorization, allowing access by submitting credentials along with a valid JWT in the header. (API)
    - Implement caching for frequently accessed data (API)
    - Add pagination if the dataset grew larger (API)
+   - Unit Tests for the CSV parsing code, integrated with CI/CD
+   - Developing a frontend application to link with the API
+
+### **Hosting the API**
+
+There are many options available for hosting ASP.NET API's. 
+    - Azure App Services: 
+        - Advantage: Easiest Setup, Built Into Visual Studio
+    - AWS Elastic Beanstalk
+    - Vercel (serverless functions)
+    - Docker
