@@ -1,0 +1,11 @@
+C:\Users\hloko\Desktop\assessment\Scores.Core\bin\Debug\net9.0\Scores.Core.deps.json
+C:\Users\hloko\Desktop\assessment\Scores.Core\bin\Debug\net9.0\Scores.Core.dll
+C:\Users\hloko\Desktop\assessment\Scores.Core\bin\Debug\net9.0\Scores.Core.pdb
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.AssemblyInfoInputs.cache
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.AssemblyInfo.cs
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.csproj.CoreCompileInputs.cache
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.dll
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\refint\Scores.Core.dll
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.pdb
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\ref\Scores.Core.dll
