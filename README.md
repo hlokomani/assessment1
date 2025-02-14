@@ -119,6 +119,7 @@ Jane,Smith,92
    - Add pagination if the dataset grew larger (API)
    - Unit Tests for the CSV parsing code, integrated with CI/CD
    - Developing a frontend application to link with the API
+   - Input validation and sanitization on the API, to improve security
 
 ### **Hosting the API**
 
