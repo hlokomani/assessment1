@@ -16,3 +16,4 @@ C:\Users\hloko\Desktop\assessment\Scores.Console\obj\Debug\net9.0\refint\Scores.
 C:\Users\hloko\Desktop\assessment\Scores.Console\obj\Debug\net9.0\Scores.Console.pdb
 C:\Users\hloko\Desktop\assessment\Scores.Console\obj\Debug\net9.0\Scores.Console.genruntimeconfig.cache
 C:\Users\hloko\Desktop\assessment\Scores.Console\obj\Debug\net9.0\ref\Scores.Console.dll
+C:\Users\hloko\Desktop\assessment\Scores.Console\obj\Debug\net9.0\Scores.Console.sourcelink.json

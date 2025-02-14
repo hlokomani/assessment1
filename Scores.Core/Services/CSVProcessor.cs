@@ -2,11 +2,11 @@ using Scores.Core.Models;
 
 namespace Scores.Core.Services;
 
-public class CsvProcessor
+public class CSVProcessor
 {
     private readonly CSVParser _parser;
 
-    public CsvProcessor(CSVParser parser)
+    public CSVProcessor(CSVParser parser)
     {
         _parser = parser;
     }

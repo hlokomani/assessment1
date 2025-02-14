@@ -95,7 +95,7 @@ Jane,Smith,92
    - Handles edge cases like:
      - Quoted fields
      - Empty lines
-     - Invalid data validation
+     - Data validation (eg. scores must be between 0 and 100)
    - Provides clear error messages for malformed input
 
 4. **API Design**
@@ -123,8 +123,8 @@ Jane,Smith,92
 ### **Hosting the API**
 
 There are many options available for hosting ASP.NET API's. 
-    - Azure App Services: 
-        - Advantage: Easiest Setup, Built Into Visual Studio
-    - AWS Elastic Beanstalk
-    - Vercel (serverless functions)
-    - Docker
+   - Azure App Services (built into Visual Studio)
+   - Docker
+   - Vercel
+   - AWS Elastic Beanstalk
+

@@ -8,5 +8,5 @@ if (args.Length == 0)
 }
 
 var parser = new CSVParser();
-var processor = new CsvProcessor(parser);
+var processor = new CSVProcessor(parser);
 await processor.ProcessFile(args[0]);

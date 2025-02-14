@@ -9,3 +9,4 @@ C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.dll
 C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\refint\Scores.Core.dll
 C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.pdb
 C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\ref\Scores.Core.dll
+C:\Users\hloko\Desktop\assessment\Scores.Core\obj\Debug\net9.0\Scores.Core.sourcelink.json

@@ -87,7 +87,6 @@ public class CSVParser
             );
         }
 
-        // Validate names are not empty
         if (string.IsNullOrWhiteSpace(fields[0]))
         {
             throw new CSVParseException("First Name cannot be empty", lineNumber, line);
@@ -98,7 +97,6 @@ public class CSVParser
             throw new CSVParseException("Second Name cannot be empty", lineNumber, line);
         }
 
-        // Validate and parse score
         if (!int.TryParse(fields[2], out int scoreValue))
         {
             throw new CSVParseException(

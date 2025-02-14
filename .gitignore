@@ -1,0 +1,21 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+## VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Environment Files
+*.env
+appsettings.Development.json
+
+## Others
+*.log
+.DS_Store
+
